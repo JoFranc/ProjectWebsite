@@ -1,0 +1,1 @@
+window.alert("Hello! Welcome to our open-source project!");
